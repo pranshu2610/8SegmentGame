@@ -13,6 +13,7 @@ At the end of the game the score will be displayed.
 7. Laptop with Arduino Installed in it.
 
 # Circuit Diagram
+![alt text](https://github.com/pranshu2610/8SegmentGame/blob/master/8SegCkt.PNG)
 
 # How to Play
 Connect the wiring according to the circuit diagram,
